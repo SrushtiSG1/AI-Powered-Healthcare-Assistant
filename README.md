@@ -13,5 +13,6 @@ Improved user experience through structured conversation flows, knowledge retrie
 
 
 
-AI Agent link - https://neoagent.hellotars.com/chat/J21NGTw3
+Published AI Agent - https://neoagent.hellotars.com/chat/J21NGTw3
+AI Agent - https://dashboard.hellotars.com/
 Loom video of the Agent's Conversational workflow - https://www.loom.com/share/ca78c5824434421f835fca25cc330a51

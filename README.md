@@ -12,9 +12,8 @@ Implemented conversational AI for healthcare queries while ensuring responses re
 Improved user experience through structured conversation flows, knowledge retrieval, and CRM integration.
 
 
+# Published AI Agent 
+https://neoagent.hellotars.com/chat/J21NGTw3
 
-Published AI Agent - https://neoagent.hellotars.com/chat/J21NGTw3
-
-AI Agent - https://dashboard.hellotars.com/agents/J21NGTw3/canvas
-
-Loom video of the Agent's Conversational workflow - https://www.loom.com/share/ca78c5824434421f835fca25cc330a51
+# Loom video of the Agent's Conversational workflow 
+https://www.loom.com/share/ca78c5824434421f835fca25cc330a51

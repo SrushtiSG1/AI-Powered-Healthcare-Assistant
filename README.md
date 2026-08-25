@@ -11,9 +11,8 @@ Designed an appointment booking workflow that collects patient details and creat
 Implemented conversational AI for healthcare queries while ensuring responses remained within the hospital knowledge base and encouraged professional consultation for medical concerns.
 Improved user experience through structured conversation flows, knowledge retrieval, and CRM integration.
 
-
 # Published AI Agent 
-https://neoagent.hellotars.com/chat/J21NGTw3
+https://neoagent.hellotars.com/chat/J21NGTw3?region=us
 
 # Loom video of the Agent's Conversational workflow 
 https://www.loom.com/share/ca78c5824434421f835fca25cc330a51
